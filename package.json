@@ -1,0 +1,21 @@
+{
+  "name": "social-mongoose",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed"
+  },
+  "keywords": [],
+  "author": "LockedJCE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
