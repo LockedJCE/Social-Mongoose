@@ -26,7 +26,7 @@ We’ll take a working Express.js API and configure it to use Sequelize to inter
     WHEN I test API POST and DELETE routes in Insomnia
     THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
   ## Installation
-To get started clone this repository using 
+To get started clone this repository run npm i to install all the necessary files with "mongoose" and "express".
 <br>
 ```terminal
 git clone git@github.com:LockedJCE/Social-Mongoose.git
@@ -38,4 +38,3 @@ git clone git@github.com:LockedJCE/Social-Mongoose.git
 ## Questions
     Have questions about this project?  
     GitHub: https://github.com/LockedJCE  
-
