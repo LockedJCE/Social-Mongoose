@@ -2,10 +2,9 @@
   "name": "social-mongoose",
   "version": "1.0.0",
   "description": "Social Network API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index",
+    "start": "node server.js",
     "seed": "node utils/seed"
   },
   "keywords": [],
